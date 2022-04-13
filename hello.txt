@@ -12,5 +12,6 @@ hello cxb! hello git
 hello cxb! hello git
 hello cxb! hello git
 hello cxb! hello git
-hello cxb! hello git
 hello cxb! hello git  hot-fix test
+hello cxb! hello git master test
+
